@@ -12,7 +12,7 @@ This tool is a Python script for Blender that facilitates automatic retopology o
 
 ## Installation
 
-1. Copy the [script](.\main.py) into Blender's text editor.
+1. Copy the [script](main.py) into Blender's text editor.
 2. Run it to register the operators and panel in Blender's interface.
 3. Open the "Tools"(press [N]) tab in the right sidebar of the 3D View to access the retopology tool.
 
